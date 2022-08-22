@@ -1,3 +1,4 @@
+// SIMPLE ROCK PAPER AND SCISSOR GAME
 #include <iostream>
 using namespace std;
 string ns, cs;
